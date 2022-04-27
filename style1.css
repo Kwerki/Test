@@ -1,0 +1,178 @@
+body
+{
+    margin: 0;
+    background-color:#63bba3;
+}
+.name
+{
+    position: absolute;
+    font-size: 40px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 750px;
+    
+}
+.line1
+{
+    position:absolute;
+    margin-top: 200px;
+    background-color: black;
+    height: 7px;
+    width: 2000px;
+    
+}
+.line2
+{
+    top: 0;
+    position:absolute;
+    margin-left: 150px;
+    background-color: black;
+    height: 100%;
+    width: 9px;
+    
+}
+.line3
+{
+    top: 0;
+    position:absolute;
+    margin-left: 300px;
+    background-color: black;
+    height: 100%;
+    width: 11px;
+}
+.line4
+{
+    position:absolute;
+    margin-top: 240px;
+    background-color: black;
+    height: 6px;
+    width: 100%;
+    
+}
+.line5
+{
+    position:absolute;
+    margin-top: 340px;
+    background-color: black;
+    height: 5px;
+    width: 1750px;
+    margin-left: 100px;
+}
+.line6
+{
+    top: 0;
+    position:absolute;
+    margin-left: 500px;
+    background-color: black;
+    height: 750px;
+    width: 3px;
+}
+.line7
+{
+    top: 0;
+    position:absolute;
+    margin-left: 650px;
+    background-color: black;
+    height: 580px;
+    width: 12px;
+}
+.line8
+{
+    position:absolute;
+    margin-top: 540px;
+    background-color: black;
+    height: 5px;
+    width: 1840px;
+    margin-left: 30px;
+}
+.line9
+{
+    top: 300px;
+    position:absolute;
+    margin-left: 800px;
+    background-color: black;
+    height: 600px;
+    width: 4px;
+}
+.line10
+{
+    top: 650px;
+    position:absolute;
+    margin-left: 600px;
+    background-color: black;
+    height: 300px;
+    width: 5px;
+}
+.line11
+{
+    position:absolute;
+    margin-top: 640px;
+    background-color: black;
+    height: 9px;
+    width: 900px;
+    margin-left: 400px;
+    
+}
+.text1
+{
+position: absolute;
+margin-top: 40px;
+max-width: 110px;
+margin-left: 25px;
+}
+.text2
+{
+position: absolute;
+max-width: 130px;
+margin-top: 230px;
+margin-left: 163px;
+}
+.text3
+{
+position: absolute;
+max-width: 110px;
+margin-top: 350px;
+margin-left: 10px;
+}
+.text4
+{
+position: absolute;
+max-width: 170px;
+margin-top: 350px;
+margin-left: 320px;
+}
+.text5
+{
+position: absolute;
+max-width: 135px;
+margin-top: 335px;
+margin-left: 665px;
+}
+.text6
+{
+position: absolute;
+max-width: 135px;
+margin-top: 635px;
+margin-left: 610px;
+}
+.bild img
+{
+position: absolute;
+margin-top: 10px;
+height: 300px;
+margin-left: 360px;
+transform:rotate(-3deg);
+}
+.bild1 img
+{
+position: absolute;
+height: 300px;
+margin-left: 120px;
+margin-top: 630px;
+transform:rotate(2deg);
+
+}
+.text
+{
+    font-family: 'Roboto Mono', monospace;
+}
